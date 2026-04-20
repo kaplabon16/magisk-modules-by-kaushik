@@ -9,4 +9,4 @@ This module does not modify the refresh rate itself.
 Adjustments and logs can be found in:
 - Log: /data/adb/dynamic_animations/module.log
 
-This module works dynamically based on refresh rate changes.
+This module works dynamically based on refresh rate changes. 
