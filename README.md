@@ -1,5 +1,6 @@
 # Kaushik Plabon - Magisk Modules
 
+Experimental magisk modules made to get a fluid experience.
 
 ## Modules
 
