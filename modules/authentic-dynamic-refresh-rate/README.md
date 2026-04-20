@@ -8,6 +8,8 @@ This module dynamically adjusts refresh rate based on device usage.
 - Scrolling → Higher refresh rate (120)
 - Video apps → Stable refresh behavior (60-90)
 - Foreground apps → Adaptive switching
+- Reading (30)
+- Apps (90)
 
 ## What you should notice
 - Screen drops refresh when idle
