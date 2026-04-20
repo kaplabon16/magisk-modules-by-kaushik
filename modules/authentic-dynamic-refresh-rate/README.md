@@ -22,3 +22,6 @@ This module dynamically adjusts refresh rate based on device usage.
 Check logs:
 
 Go to developers option and select 'Show/View Refresh Rate'
+
+##Note:
+- After installation do not touch the phone for 1-2 minutes to let the module start full functioning. Trying to tap into apps, or screen might cause the module to lock to 30 FPS just after boot. Give some time.
