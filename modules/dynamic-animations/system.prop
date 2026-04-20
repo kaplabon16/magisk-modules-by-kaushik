@@ -1,0 +1,3 @@
+# Placeholder system properties for dynamic animations
+# These properties will manage dynamic animation adjustments
+persist.realme8i.dynamic.animations=true

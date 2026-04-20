@@ -1,0 +1,6 @@
+id=realme8i_dynamic_animations_only
+name= Dynamic Animations (Only)
+version=1.0
+versionCode=1
+author=Kaushik Plabon
+description=Dynamic animation adjustments based on refresh rate for  without modifying the refresh rate.
