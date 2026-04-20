@@ -1,0 +1,4 @@
+#  refresh helper props
+persist.realme8i.refresh.authentic=1
+persist.realme8i.refresh.profile=30,48,50,60,90,120
+persist.realme8i.refresh.poll_ms=80
