@@ -1,6 +1,5 @@
 # Kaushik Plabon - Magisk Modules
 
-A collection of experimental Magisk modules focused on system behavior tuning, smoothness, and battery efficiency.
 
 ## Modules
 
