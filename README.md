@@ -10,6 +10,7 @@ Dynamic refresh rate control based on usage:
 - Scrolling 120 Hz
 - Most Apps 90 Hz
 - Video playback 60-90 Hz
+- Reading 30 Hz
 
 ### 2. Dynamic Animations
 Adjusts animation speed based on current refresh rate for a smoother UI experience.
