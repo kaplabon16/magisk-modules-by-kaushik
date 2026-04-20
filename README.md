@@ -6,10 +6,10 @@ A collection of experimental Magisk modules focused on system behavior tuning, s
 
 ### 1. Authentic Dynamic Refresh Rate
 Dynamic refresh rate control based on usage:
-- Idle
-- Scrolling
-- App type
-- Video playback
+- Idle 30 Hz
+- Scrolling 120 Hz
+- Most Apps 90 Hz
+- Video playback 60-90 Hz
 
 ### 2. Dynamic Animations
 Adjusts animation speed based on current refresh rate for a smoother UI experience.
@@ -28,11 +28,8 @@ Adjusts animation speed based on current refresh rate for a smoother UI experien
 
 ## Important Notes
 
-- These modules are experimental
 - Behavior depends on ROM, kernel, and device
 - Results may vary
-- Logs are provided for verification
-
 ---
 
 ## License
